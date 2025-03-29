@@ -5,7 +5,7 @@
 - [X] Atualização de uma task pelo id
 - [X] Remover uma task pelo id
 - [X] Marcar pelo id uma task como completa
-- [ ] E o verdadeiro desafio: Importação de tasks em massa por um arquivo CSV
+- [X] E o verdadeiro desafio: Importação de tasks em massa por um arquivo CSV
 
 # TASKS
 
