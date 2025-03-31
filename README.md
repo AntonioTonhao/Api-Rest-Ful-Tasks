@@ -7,6 +7,10 @@
 - [X] Marcar pelo id uma task como completa
 - [X] E o verdadeiro desafio: Importação de tasks em massa por um arquivo CSV
 
+# TEST
+
+- [ ] Criar testes automatizados e2e
+
 # TASKS
 
 - `id` - Identificador único de cada task
